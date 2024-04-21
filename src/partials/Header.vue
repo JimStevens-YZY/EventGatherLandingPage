@@ -116,7 +116,7 @@
                 <li>
                   <router-link to="/blog" class="flex text-gray-600 hover:text-gray-900 py-2">Blog</router-link>
                 </li>
-                <li class="py-2 my-2 border-t border-b border-gray-200">
+<!--                <li class="py-2 my-2 border-t border-b border-gray-200">
                   <span class="flex text-gray-600 hover:text-gray-900 py-2">Resources</span>
                   <ul class="pl-4">
                     <li>
@@ -129,7 +129,7 @@
                       <router-link to="/404" class="text-sm flex font-medium text-gray-600 hover:text-gray-900 py-2">404</router-link>
                     </li>
                   </ul>
-                </li>
+                </li>-->
                 <li>
                   <router-link to="/signin" class="flex font-medium w-full text-gray-600 hover:text-gray-900 py-2 justify-center">Sign in</router-link>
                 </li>
