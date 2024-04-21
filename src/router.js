@@ -27,7 +27,7 @@ const router = createRouter({
   history: routerHistory,
   routes: [
     {
-      path: '/',
+      path: '/EventGatherLandingPage',
       component: Home
     },
     {
@@ -55,7 +55,7 @@ const router = createRouter({
       component: Documentation
     },
     {
-      path: '/support',
+      path: '/EventGatherLandingPage/support',
       component: Support
     },
     {

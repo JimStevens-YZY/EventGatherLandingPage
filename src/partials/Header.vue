@@ -27,19 +27,19 @@
           <!-- Desktop menu links -->
           <ul class="flex grow justify-end flex-wrap items-center">
             <li>
-              <router-link to="/" style="font-weight: 500" class="text-gray-900 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">EventGather</router-link>
+              <router-link to="/EventGatherLandingPage" style="font-weight: 500" class="text-gray-900 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">EventGather</router-link>
             </li>
             <li>
-              <router-link to="/" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Home</router-link>
+              <router-link to="/EventGatherLandingPage" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Home</router-link>
             </li>
             <li>
-              <router-link to="/" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Features</router-link>
+              <router-link to="/EventGatherLandingPage" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Features</router-link>
             </li>
             <li>
-              <router-link to="/" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">About us</router-link>
+              <router-link to="/EventGatherLandingPage" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">About us</router-link>
             </li>
             <li>
-              <router-link to="/support" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Support</router-link>
+              <router-link to="/EventGatherLandingPage/support" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Support</router-link>
             </li>
             <li>
               <a target="_blank" href="https://github.com/JimStevens-YZY/EventGather/releases" class="text-gray-600 hover:text-gray-900 px-3 lg:px-5 py-2 flex items-center transition duration-150 ease-in-out">Download</a>
