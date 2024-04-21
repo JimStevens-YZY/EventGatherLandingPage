@@ -37,8 +37,8 @@
           <!-- Content -->
           <div class="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6">
             <div class="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-              <h3 class="h3 mb-3">Powerful suite of tools</h3>
-              <p class="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
+              <h3 class="h3 mb-3">Pursue your interests with people who share them</h3>
+              <p class="text-xl text-gray-600">EventGather offers you the perfect platform to discover, participate, and share events. </p>
             </div>
             <!-- Tabs buttons -->
             <div class="mb-8 md:mb-0">

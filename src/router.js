@@ -31,27 +31,27 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/tutorials',
+      path: '/EventGatherLandingPage/tutorials',
       component: Tutorials
     },
     {
-      path: '/pricing',
+      path: '/EventGatherLandingPage/pricing',
       component: Pricing
     },
     {
-      path: '/blog',
+      path: '/EventGatherLandingPage/blog',
       component: Blog
     },
     {
-      path: '/blog-post',
+      path: '/EventGatherLandingPage/blog-post',
       component: BlogPost
     },
     {
-      path: '/about',
+      path: '/EventGatherLandingPage/about',
       component: About
     },
     {
-      path: '/documentation',
+      path: '/EventGatherLandingPage/documentation',
       component: Documentation
     },
     {
@@ -59,19 +59,19 @@ const router = createRouter({
       component: Support
     },
     {
-      path: '/signin',
+      path: '/EventGatherLandingPage/signin',
       component: SignIn
     },
     {
-      path: '/signup',
+      path: '/EventGatherLandingPage/signup',
       component: SignUp
     },
     {
-      path: '/reset-password',
+      path: '/EventGatherLandingPage/reset-password',
       component: ResetPassword
     },
     {
-      path: '/:pathMatch(.*)*',
+      path: '/EventGatherLandingPage/:pathMatch(.*)*',
       component: PageNotFound
     }
   ]
